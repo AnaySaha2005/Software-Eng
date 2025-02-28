@@ -1,3 +1,4 @@
+package Q1;
 import java.io.FileWriter;
 import java.util.*;
 
